@@ -289,24 +289,20 @@ li a:hover {
     
 
 
-@font-face {
-    font-family: quicksand;
-    src: url(/Users/ninawang/Downloads/quicksand/Quicksand-Medium.ttf);
-}
 
 @font-face {
     font-family: quicksandlightoblique;
-    src: url(/Users/ninawang/Downloads/quicksand1/Quicksand_Light_Oblique.otf)
+    src: url(Quicksand_Light_Oblique.otf)
 }
 
 @font-face {
     font-family: quicksandbold;
-    src: url(/Users/ninawang/Downloads/quicksand1/Quicksand_Bold.otf)
+    src: url(Quicksand_Bold.otf)
 }
 
 @font-face {
     font-family: quicksandlight;
-    src: url(/Users/ninawang/Downloads/quicksand1/Quicksand_Light.otf)
+    src: url(Quicksand_Light.otf)
 }
 
 
