@@ -288,10 +288,6 @@ li a:hover {
 }
     
 
-@font-face {
-    font-family: cooperblack;
-    src: url(/Users/ninawang/Downloads/cooper-black/COOPBL.ttf);
-}
 
 @font-face {
     font-family: quicksand;
@@ -313,42 +309,28 @@ li a:hover {
     src: url(/Users/ninawang/Downloads/quicksand1/Quicksand_Light.otf)
 }
 
-@font-face {
-    font-family: optibold;
-    src: url(/Users/ninawang/Downloads/OPTIsupAuvantGothicBold/OPTIsupAuvantGothicBold.otf)
-}
-
-@font-face {
-    font-family: helveticabold;
-    src: url(/Users/ninawang/Downloads/Helvetica-Font/Helvetica-Bold.ttf)
-}
-
-@font-face {
-    font-family: coolvetica;
-    src: url(/Users/ninawang/Downloads/coolvetica/coolveticarg.ttf)
-}
 
 @font-face {
     font-family: metropolisnormal;
-    src: url(/Users/ninawang/Documents/ninawang4.github.io/metropolis/Metropolis-Light.otf)
+    src: url(/Metropolis-Light.otf)
 }
 
 @font-face {
     font-family: metropolisbold;
-    src: url(/Users/ninawang/Documents/ninawang4.github.io/metropolis/Metropolis-Bold.otf)
+    src: url(Metropolis-Bold.otf)
 }
 
 @font-face {
     font-family: metropolisskinny;
-    src: url(/Users/ninawang/Documents/ninawang4.github.io/metropolis/Metropolis-Thin.otf)
+    src: url(Metropolis-Thin.otf)
 }
 
 @font-face {
     font-family: metropolislightitalic;
-    src: url(/Users/ninawang/Documents/ninawang4.github.io/metropolis/Metropolis-LightItalic.otf)
+    src: url(Metropolis-LightItalic.otf)
 }
 
 @font-face {
     font-family: georgiabold;
-    src: url(/Users/ninawang/Documents/ninawang4.github.io/georgia/georgiabold.ttf)
+    src: url(georgiabold.ttf)
 }
