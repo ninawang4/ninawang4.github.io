@@ -312,25 +312,25 @@ li a:hover {
 
 @font-face {
     font-family: metropolisnormal;
-    src: url(/Metropolis-Light.otf)
+    src: url(metropolis/Metropolis-Light.otf)
 }
 
 @font-face {
     font-family: metropolisbold;
-    src: url(Metropolis-Bold.otf)
+    src: url(metropolis/Metropolis-Bold.otf)
 }
 
 @font-face {
     font-family: metropolisskinny;
-    src: url(Metropolis-Thin.otf)
+    src: url(metropolis/Metropolis-Thin.otf)
 }
 
 @font-face {
     font-family: metropolislightitalic;
-    src: url(Metropolis-LightItalic.otf)
+    src: url(metropolis/Metropolis-LightItalic.otf)
 }
 
 @font-face {
     font-family: georgiabold;
-    src: url(georgiabold.ttf)
+    src: url(georgia/georgiabold.ttf)
 }
