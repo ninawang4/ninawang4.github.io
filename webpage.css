@@ -1,3 +1,19 @@
+div {
+    box-sizing: border-box;
+}
+
+.cont {
+    width: 1200px;
+    margin: auto;
+}
+
+.biggercont {
+    width: 100%
+}
+
+.center {
+    margin: auto;
+}
 
 .nav {
     display: flex;
@@ -5,7 +21,7 @@
     font-family: metropolisnormal;
     overflow: hidden;
     padding: 18px;
-    padding-bottom: 5px;
+    padding-bottom: 12px;
     margin-left: -50px;
     background-color: white;
     color: grey;
@@ -37,7 +53,6 @@ li a:hover {
     color: black;
     text-decoration: none;
     font-size: 64px;
-    align-content: left;
     font-family: georgiabold;
     padding-top: 12px;
     display: inline;
@@ -47,13 +62,14 @@ li a:hover {
     background-color: #fff2f2;
     border: 40px solid  #fff2f2;
     color: black;
-    margin-left: 400px;
-    margin-right: 650px;
+    margin-left: 300px;
+    margin-right: 65px;
     margin-top: 100px;
     text-align: left;
     padding-top: 64px;
     padding-bottom: 64px;
     padding-left: 22px;
+    width: 350px;
 }
 
 .hi {
@@ -90,8 +106,8 @@ li a:hover {
 
 .imagedesc {
     max-width: 200px;
-    margin-left: 800px;
-    margin-right: auto;
+    margin-left: 700px;
+    margin-right: 200px;
     margin-top: -400px;
     display: block;
 }
@@ -119,36 +135,41 @@ li a:hover {
 }
 
 .educationheader{
-    margin-bottom: 60px;
+    margin-bottom: 110px;
     justify-content: center;
     text-align: center;
     font-size: 50px;
-    margin-left: 250px;
+    margin-left: 260px;
     font-family: georgiabold;
     color: black;
 }
 
 .schoolimage {
-    max-width: 480px;
+    max-width: 400px;
     margin-top: -140px;
-    margin-left: 50px;
+    margin-left: 150px;
 }
 
+.schooltitle {
+    font-family: metropolisnormal;
+    color: rgb(59, 59, 59);
+    font-size: 20px;
+}
 .education {
     font-family: metropolisbold;
     padding: 40px 70px 25px;
-    margin-top: 30px;
-    margin-bottom: 60px;
-    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin: auto;
 }
 
 .educationcontent{
     text-align: left;
-    margin-left: 640px;
-    margin-top: -400px;
+    margin-left: 600px;
+    margin-top: -380px;
     margin-bottom: 40px;
     color: grey;
-    max-width: 700px;
+    max-width: 500px;
 }
 
 .educationdescription{
@@ -159,13 +180,13 @@ li a:hover {
 
 .worksection {
     background-color: #fff2f2;
-    border: 40px solid  #fff2f2;
     font-family: metropolisbold;
     color: grey;
-    padding-top: 24px;
+    padding-top: 44px;
     padding-bottom: 60px;
     margin-top: 40px;
     margin-bottom: 60px;
+    width: 100%;
 
 }
 
@@ -186,7 +207,6 @@ li a:hover {
     text-align: left;
     align-items: center;
     background-color: #fff2f2;
-    text-align: left;
     margin-top: 64px;
     margin-left: 8px;
 }
@@ -206,7 +226,7 @@ li a:hover {
 }
 
 .jobdescription {
-    line-height: 18px;
+    line-height: 24px;
     max-width: 85%;
     font-family: metropolisskinny;
 }
@@ -242,7 +262,8 @@ li a:hover {
 }
 
 .white_box{ 
-    height: 250px; 
+    height: 300px;
+    width: 300px; 
     border: 5px solid #e6e6e6; 
     color: rgb(65, 65, 65);
     line-height: 24px;
@@ -255,7 +276,7 @@ li a:hover {
 }
 
 .skilllist {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 18px;
     font-family: metropolisskinny;
     text-align: left;
@@ -265,7 +286,7 @@ li a:hover {
 .container {
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 90%;
 }
 
 .button {
@@ -278,6 +299,7 @@ li a:hover {
     border-color: #e6e6e6;
     overflow: hidden;
     list-style-type: none;
+    font-size: 13px;
     margin: 4px;
 }
 
@@ -286,69 +308,51 @@ li a:hover {
     text-decoration: none;
     border-color: grey;
 }
+
+.socialbuttons {
+    max-width: 300px;
+}
     
 
-@font-face {
-    font-family: cooperblack;
-    src: url(/Users/ninawang/Downloads/cooper-black/COOPBL.ttf);
-}
 
-@font-face {
-    font-family: quicksand;
-    src: url(/Users/ninawang/Downloads/quicksand/Quicksand-Medium.ttf);
-}
 
 @font-face {
     font-family: quicksandlightoblique;
-    src: url(/Users/ninawang/Downloads/quicksand1/Quicksand_Light_Oblique.otf)
+    src: url(Quicksand_Light_Oblique.otf)
 }
 
 @font-face {
     font-family: quicksandbold;
-    src: url(/Users/ninawang/Downloads/quicksand1/Quicksand_Bold.otf)
+    src: url(Quicksand_Bold.otf)
 }
 
 @font-face {
     font-family: quicksandlight;
-    src: url(/Users/ninawang/Downloads/quicksand1/Quicksand_Light.otf)
+    src: url(Quicksand_Light.otf)
 }
 
-@font-face {
-    font-family: optibold;
-    src: url(/Users/ninawang/Downloads/OPTIsupAuvantGothicBold/OPTIsupAuvantGothicBold.otf)
-}
-
-@font-face {
-    font-family: helveticabold;
-    src: url(/Users/ninawang/Downloads/Helvetica-Font/Helvetica-Bold.ttf)
-}
-
-@font-face {
-    font-family: coolvetica;
-    src: url(/Users/ninawang/Downloads/coolvetica/coolveticarg.ttf)
-}
 
 @font-face {
     font-family: metropolisnormal;
-    src: url(/Users/ninawang/Downloads/metropolis/Metropolis-Light.otf)
+    src: url(metropolis/Metropolis-Light.otf)
 }
 
 @font-face {
     font-family: metropolisbold;
-    src: url(/Users/ninawang/Downloads/metropolis/Metropolis-Bold.otf)
+    src: url(metropolis/Metropolis-Bold.otf)
 }
 
 @font-face {
     font-family: metropolisskinny;
-    src: url(/Users/ninawang/Downloads/metropolis/Metropolis-Thin.otf)
+    src: url(metropolis/Metropolis-Thin.otf)
 }
 
 @font-face {
     font-family: metropolislightitalic;
-    src: url(/Users/ninawang/Downloads/metropolis/Metropolis-LightItalic.otf)
+    src: url(metropolis/Metropolis-LightItalic.otf)
 }
 
 @font-face {
     font-family: georgiabold;
-    src: url(/Users/ninawang/Downloads/georgia/georgiabold.ttf)
+    src: url(georgia/georgiabold.ttf)
 }
