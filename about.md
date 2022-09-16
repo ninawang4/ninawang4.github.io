@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: A Little Bit About Me
+description: 
+feature_image: 
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Hello! My name is Nina and I'm super excited to be taking 6.1040 this fall. I'm currently a senior studying 6-14 and 15-2 (Computer Science + Econ and Business Analytics). 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Professionally, most of my experience throughout various interships has been in the 
+project management and feature design sphere, and my aim is to continue on that path for the immediate future. What I really enjoy about project management is the ability to work and connect with people from all different sorts of teams, as well as the sense of ownership that comes along with following a product through its entire lifecycle.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+This fall, I'm taking a pretty big breath of classes. In addition to finishing up some requirements, I'm taking a class on organizational processes, a software design class, and a class where I get to write an empirical research paper! I love taking a diverse courseload, as I truly believe that interdisciplinary studies is a valuable and necessary method of understanding different perspectives.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
-
-*Thank You for reading!*
+Outside of school, I love video-editing, taking walks, and listening to podcasts. I'm also involved in MIT's Chinese Students Club as co-social media chair. One personal challenge for myself this year is to learn Korean (and get better at Chinese, my parent's native language).
