@@ -34,8 +34,8 @@ navigation:
     url: /about/
   - text: Work Experience
     url: /work-experience/
-  - text: Projects
-    url: /projects/
+  - text: Resume
+    url: /resume/
  
 
 # The shortname for your Disqus site to enable comments.
