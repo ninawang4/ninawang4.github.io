@@ -4,5 +4,5 @@ title:
 permalink: "/resume/"
 ---
 
-![My resume](NINA-WANG-resume.png)
+![My resume](../NINA-WANG-resume.png)
 
