@@ -29,6 +29,21 @@ body {
   padding-right: 30px;
 }
 
+body2 {
+  color: black;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.66667;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+title {
+  padding: 0px;
+  color: _palette(primary);
+  line-height: 3.3333;
+}
+
 a {
   color: _palette(accent);
   text-decoration: none;
