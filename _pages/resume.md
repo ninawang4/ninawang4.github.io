@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title: My Resume
 permalink: "/resume/"
 ---
 
-![My resume](../NINA-WANG-resume.png)
+![My resume](../nina-wang-resume.png)
 
