@@ -4,7 +4,7 @@ title: A Little Bit About Me
 permalink: "/about/"
 ---
 
-Hello! My name is Nina and I'm super excited to be taking 6.1040 this fall. I'm currently a senior studying 6-14 and 15-2 (Computer Science + Econ and Business Analytics). 
+Hello! My name is Nina I'm currently a senior studying 6-14 and 15-2 (Computer Science + Econ and Business Analytics). 
 
 Professionally, most of my experience throughout various interships has been in the 
 project management and feature design sphere, and my aim is to continue on that path for the immediate future. What I really enjoy about project management is the ability to work and connect with people from all different sorts of teams, as well as the sense of ownership that comes along with following a product through its entire lifecycle.
